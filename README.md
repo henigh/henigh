@@ -7,7 +7,7 @@ I also have basic to intermediate knowledge in Web Develpment, Data Processing a
 
 I am currently managing some of [OKP4](https://okp4.com/) Projects and helping designing the functional  specifications of a decentralized protocol based on blockchain technology 🔗
 
-Find out more about me here & feel free to connect with me here:  
+Find out more about me here & feel free to connect with me :  
 
 [![Linkedin Badge](https://img.shields.io/badge/-HeniGhariani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/anirudhemmadi](https://www.linkedin.com/in/h%C3%A9ni-ghariani-654499106/)/)](https://www.linkedin.com/in/h%C3%A9ni-ghariani-654499106//) 
 [![Instagram Badge](https://img.shields.io/badge/-HeniGhariani-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/heni.ghariani/?hl=fr)
