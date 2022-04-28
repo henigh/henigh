@@ -3,7 +3,7 @@ Hi, I'm Héni *(Eng., MSc)*, I'm an Agronomic Engineer🌱 with a focus on Ditit
 
 I'm a Tech and Project Management enthusiast, helping to spread **[Agility](https://agilemanifesto.org/)** 🚀and implement **[PMI Standards](https://www.pmi.org/explore)** 📘
 
-I also have basic to intermediate knowledge in Web Develpment, Data Processing and Data Science, Geographical Information Systems and Remote-Sensing...  
+I also have basic to intermediate knowledge in Web Development, Data Processing and Data Science, Geographical Information Systems and Remote-Sensing...  
 
 I am currently managing some of [OKP4](https://okp4.com/) (:octocat: [repo](https://github.com/okp4/)) projects and helping designing the Functional Specifications of a decentralized Protocol based on Blockchain Technology 🔗
 
