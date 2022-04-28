@@ -1,13 +1,13 @@
 # Fancy seeing you here <img src="https://github.com/henigh/hghariani/blob/main/hi.gif" width="30px" width="30px">
-Hi, I'm Héni *(Eng., MSc)*, I'm an Agronomic Engineer🌱 with a focus on Ditital Farming and New Technologies🛰️  
+Hi, I'm Héni *(Eng., MSc)*, I'm an Agronomic Engineer🌱 with a focus on Ditital Farming and New Technologies 🛰️  
 
-I'm a Tech and Project Management enthusiast, helping to spread **Agility** 🚀and implement **PMI Standards** 📘
+I'm a Tech and Project Management enthusiast, helping to spread **[Agility](https://agilemanifesto.org/)** 🚀and implement **[PMI Standards](https://www.pmi.org/explore)** 📘
 
 I also have basic to intermediate knowledge in Web Develpment, Data Processing and Data Science, Geographical Information Systems and Remote-Sensing...  
 
-I am currently managing some of [OKP4](https://okp4.com/) Projects and helping designing the functional  specifications of a decentralized protocol based on blockchain technology 🔗
+I am currently managing some of [OKP4](https://okp4.com/) (:octocat: [repo](https://github.com/okp4/)) projects and helping designing the Functional Specifications of a decentralized Protocol based on Blockchain Technology 🔗
 
-Find out more about me here & feel free to connect with me :  
+Find out more about me & feel free to connect with me here :  
 
 [![Linkedin Badge](https://img.shields.io/badge/-HeniGhariani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/anirudhemmadi](https://www.linkedin.com/in/h%C3%A9ni-ghariani-654499106/)/)](https://www.linkedin.com/in/h%C3%A9ni-ghariani-654499106//) 
 [![Instagram Badge](https://img.shields.io/badge/-HeniGhariani-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/heni.ghariani/?hl=fr)
